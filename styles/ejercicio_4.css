@@ -1,0 +1,59 @@
+body {
+    width: 750px;
+    margin: auto;
+}
+
+p u {
+    color: #FF0000;
+}
+
+p span {
+    color: #0000FF;
+}
+
+.sub-title {
+    color: #808080;
+}
+
+table {
+    border: 1px solid #000000;
+    width: 100%;
+}
+
+th {
+    text-align: center;
+}
+
+th, td {
+    border: 1px dashed #000000;
+    width: 20%;
+    padding: .2em .1em;
+}
+
+.country {
+    text-align: left;
+    font-weight: 900;
+}
+
+table tr .country img {
+    width: 30px;
+    vertical-align: middle;
+    margin-right: .2em;
+    border: 0.05em solid rgb(203, 203, 203);
+}
+
+.gold {
+    background-color: rgb(255, 215, 0);
+}
+
+.silver {
+    background-color: rgb(208, 208, 208);
+}
+
+.bronce {
+    background-color: rgb(248, 201, 170);
+}
+
+.total {
+    background-color: rgb(202, 240, 144);
+}

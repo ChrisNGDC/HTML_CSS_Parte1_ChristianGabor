@@ -1,0 +1,18 @@
+body {
+    width: 750px;
+    margin: auto;
+}
+
+#title {
+    color: #7e1a7e;
+}
+
+img {
+    margin: auto 25%;
+    width: 50%;
+    border-radius: 50%;
+}
+
+.sub-title {
+    color: #808080;
+}
